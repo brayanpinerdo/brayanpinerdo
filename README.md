@@ -3,7 +3,7 @@
   <h3 align="center">Business Data Analyst | Turning data into insights that drive growth 📊</h3>
 </div>
 
-<img width="970" height="250" alt="Image" src="https://github.com/user-attachments/assets/799636af-7c6d-4b67-94f1-ee3927048c09" />
+<img width="870" height="450" alt="Image" src="https://github.com/user-attachments/assets/799636af-7c6d-4b67-94f1-ee3927048c09" />
 
 ---
 
