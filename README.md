@@ -3,7 +3,7 @@
   <h3 align="center">Business Data Analyst | Turning data into insights that drive growth 📊</h3>
 </div>
 
-<img width="1700" height="460" alt="Image" src="https://github.com/user-attachments/assets/107977bf-a19a-466a-addb-201986580545" />
+<img width="1700" height="460" alt="Image" src="https://github.com/user-attachments/assets/e94509fd-d8e4-4539-9711-d0975c12bfc3" />
 
 ---
 
@@ -26,9 +26,9 @@
 - 📊 **Business Data Analyst** focused on transforming raw data into strategic business insights.  
 - 🎓 **B.A. in International Business** with a **Specialization in Business Management**.  
 - 🧠 Certified in **Data Analysis (TripleTen)** — experienced with Python, SQL, Power BI, Tableau, and Machine Learning.  
-- 💼 Over **5 years of experience** in commercial strategy, marketing analytics, and data-driven decision making.  
+- 💼 Over **5 years of experience** in commercial strategy, marketing analytics, and process optimization.  
 - 🌎 Bilingual: **Spanish (Native)** | **English (B2 – Intermediate Professional)**.  
-- 🚀 Passionate about analytics, process optimization, and data storytelling for business growth.  
+- 🚀 Passionate about analytics, storytelling, and using data to drive business growth.  
 
 ---
 
@@ -65,14 +65,16 @@
 <h3 align="center">🎬 Streaming App Retention Analysis</h3>
 <div align="center">
 
+<!-- 🔹 Upload your project image to the repo and replace "streaming.png" below -->
+<img src="./streaming.png" width="400" alt="Streaming App Retention Analysis">
 
 <p>
 <a href="https://github.com/brayanpinerdo/streaming-churn-analysis" target="_blank">
 <img src="https://img.shields.io/badge/VIEW%20CODE-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>Analyzed over <strong>5,000 user records</strong> to identify churn drivers and retention patterns.  
-Proposed strategies that helped reduce churn by <strong>8%</strong>. Final visualization built in Tableau.</p>
+<p>Analyzed user behavior and engagement data to identify churn drivers in a streaming platform.  
+Proposed retention strategies based on usage patterns and subscription trends.</p>
 </div>
 </td>
 
@@ -80,15 +82,16 @@ Proposed strategies that helped reduce churn by <strong>8%</strong>. Final visua
 <h3 align="center">🏦 Credit Scoring Model</h3>
 <div align="center">
 
-
+<!-- 🔹 Upload your project image to the repo and replace "credit.png" below -->
+<img src="./credit.png" width="400" alt="Credit Scoring Model">
 
 <p>
 <a href="https://github.com/brayanpinerdo/credit-scoring-model" target="_blank">
 <img src="https://img.shields.io/badge/VIEW%20CODE-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>Developed a predictive model in <strong>Python (Scikit-learn)</strong> to assess credit risk.  
-Improved model accuracy by <strong>15%</strong> through parameter tuning and cross-validation.</p>
+<p>Cleaned and analyzed client financial data to improve the accuracy of a credit scoring system.  
+Enhanced reliability and consistency of model predictions through data validation.</p>
 </div>
 </td>
 </tr>
@@ -99,40 +102,83 @@ Improved model accuracy by <strong>15%</strong> through parameter tuning and cro
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">📈 Marketing Spend Optimization</h3>
+<h3 align="center">📞 Telecom Revenue Analysis</h3>
 <div align="center">
 
+<!-- 🔹 Upload your project image to the repo and replace "telecom.png" below -->
+<img src="./telecom.png" width="400" alt="Telecom Revenue Analysis">
 
+<p>
+<a href="https://github.com/brayanpinerdo/telecom-revenue-analysis" target="_blank">
+<img src="https://img.shields.io/badge/VIEW%20CODE-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+<p>Compared prepaid and postpaid plans to evaluate revenue differences and customer behavior.  
+Used hypothesis testing to determine the most profitable plan type.</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">💰 Marketing Spend Optimization</h3>
+<div align="center">
+
+<!-- 🔹 Upload your project image to the repo and replace "marketing.png" below -->
+<img src="./marketing.png" width="400" alt="Marketing Spend Optimization">
 
 <p>
 <a href="https://github.com/brayanpinerdo/marketing-roi-optimization" target="_blank">
 <img src="https://img.shields.io/badge/VIEW%20CODE-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
-<p>Applied cohort analysis and segmentation to detect underperforming investments,  
-increasing marketing ROI by <strong>12%</strong>.</p>
-</div>
-</td>
-
-<td width="50%">
-<h3 align="center">📊 Sales KPI Dashboard</h3>
-<div align="center">
-
-
-
-<p>
-<a href="https://github.com/brayanpinerdo/sales-kpi-dashboard" target="_blank">
-<img src="https://img.shields.io/badge/VIEW%20CODE-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
-<p>Built an interactive dashboard in <strong>Power BI</strong> and <strong>Excel</strong> to track regional sales,  
-margins, and performance KPIs in real time.</p>
+<p>Applied cohort analysis to evaluate marketing channel ROI and budget efficiency.  
+Proposed spending adjustments that increased marketing ROI by 12%.</p>
 </div>
 </td>
 </tr>
 </table>
 
 ---
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🧪 A/B Testing for Revenue Growth</h3>
+<div align="center">
+
+<!-- 🔹 Upload your project image to the repo and replace "abtest.png" below -->
+<img src="./abtest.png" width="400" alt="A/B Testing for Revenue Growth">
+
+<p>
+<a href="https://github.com/brayanpinerdo/ab-testing-revenue-growth" target="_blank">
+<img src="https://img.shields.io/badge/VIEW%20CODE-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+<p>Designed and analyzed A/B tests to evaluate pricing strategies and user conversions.  
+Validated statistically significant differences using t-tests and confidence intervals.</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">🏋️ Customer Retention Strategy – Fitness App</h3>
+<div align="center">
+
+<!-- 🔹 Upload your project image to the repo and replace "fitness.png" below -->
+<img src="./fitness.png" width="400" alt="Customer Retention Strategy – Fitness App">
+
+<p>
+<a href="https://github.com/brayanpinerdo/fitness-customer-retention" target="_blank">
+<img src="https://img.shields.io/badge/VIEW%20CODE-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+<p>Developed a machine learning model to predict customer churn in a fitness app.  
+Identified key retention factors and designed data-driven strategies to increase engagement.</p>
+</div>
+</td>
+</tr>
+</table>
+
+---
+
 
 ### 📈 GitHub Analytics
 
@@ -145,5 +191,4 @@ margins, and performance KPIs in real time.</p>
 
 ---
 
-⭐ *"Data tells a story — my job is to turn it into smart decisions."*  
-
+⭐ *"Data tells a story — my job is to turn it into smart decisions."*
