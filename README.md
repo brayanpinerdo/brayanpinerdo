@@ -1,9 +1,6 @@
 <div align="center">
   <h1 align="center">👋 Hola, soy <a href="https://www.linkedin.com/in/brayanpineros/">Brayan Piñeros</a></h1>
   <h3 align="center">Data Analyst | Business Data Analyst | Transforming data into strategic decisions 📊</h3>
-</div>
-
-<img src="https://i.imgur.com/RXg7gQx.png" alt="Banner Data Analyst Brayan Piñeros">
 
 ---
 
