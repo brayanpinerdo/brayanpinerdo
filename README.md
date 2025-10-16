@@ -65,8 +65,6 @@
 <h3 align="center">🎬 Streaming App Retention Analysis</h3>
 <div align="center">
 
-<!-- 🔹 Upload your project image to the repo and replace "streaming.png" below -->
-<img src="./streaming.png" width="400" alt="Streaming App Retention Analysis">
 
 <p>
 <a href="https://github.com/brayanpinerdo/streaming-churn-analysis" target="_blank">
@@ -82,8 +80,7 @@ Proposed strategies that helped reduce churn by <strong>8%</strong>. Final visua
 <h3 align="center">🏦 Credit Scoring Model</h3>
 <div align="center">
 
-<!-- 🔹 Upload your project image to the repo and replace "credit.png" below -->
-<img src="./credit.png" width="400" alt="Credit Scoring Model">
+
 
 <p>
 <a href="https://github.com/brayanpinerdo/credit-scoring-model" target="_blank">
@@ -105,8 +102,7 @@ Improved model accuracy by <strong>15%</strong> through parameter tuning and cro
 <h3 align="center">📈 Marketing Spend Optimization</h3>
 <div align="center">
 
-<!-- 🔹 Upload your project image to the repo and replace "marketing.png" below -->
-<img src="./marketing.png" width="400" alt="Marketing Spend Optimization">
+
 
 <p>
 <a href="https://github.com/brayanpinerdo/marketing-roi-optimization" target="_blank">
@@ -122,8 +118,7 @@ increasing marketing ROI by <strong>12%</strong>.</p>
 <h3 align="center">📊 Sales KPI Dashboard</h3>
 <div align="center">
 
-<!-- 🔹 Upload your project image to the repo and replace "sales.png" below -->
-<img src="./sales.png" width="400" alt="Sales KPI Dashboard">
+
 
 <p>
 <a href="https://github.com/brayanpinerdo/sales-kpi-dashboard" target="_blank">
