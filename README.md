@@ -3,7 +3,7 @@
   <h3 align="center">Business Data Analyst | Turning data into insights that drive growth 📊</h3>
 </div>
 
-<img src="./banner.png" alt="Brayan Piñeros - Business Data Analyst Banner" width="100%">
+<img src=<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/799636af-7c6d-4b67-94f1-ee3927048c09" />
 
 ---
 
