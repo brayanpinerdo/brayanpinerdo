@@ -57,46 +57,78 @@
 
 ---
 
-## 🚀 Featured Data Analysis Projects
 
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/brayanpinerdo/streaming-churn-analysis">
-        <img src="./streaming_churn_analysis/figures/streaming_churn_analysis.png" width="100%" alt="Streaming App Retention Analysis"/>
-        <h3>🎬 Streaming App Retention Analysis</h3>
-      </a>
-      <p>Explored user engagement patterns for a streaming service to identify churn drivers and improve retention strategies.</p>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/brayanpinerdo/credit-scoring-model">
-        <img src="./credit_scoring_model/figures/credit_scoring_model.png" width="100%" alt="Credit Scoring Model"/>
-        <h3>🏦 Credit Scoring Model</h3>
-      </a>
-      <p>Developed a data cleaning and validation pipeline to improve credit scoring accuracy and reliability.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/brayanpinerdo/marketing-roi-optimization">
-        <img src="./marketing_roi_optimization/figures/marketing_roi_optimization.png" width="100%" alt="Marketing Spend Optimization"/>
-        <h3>💰 Marketing Spend Optimization</h3>
-      </a>
-      <p>Analyzed marketing channels and user cohorts to optimize ROI and budget allocation based on key KPIs.</p>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/brayanpinerdo/fitness-customer-retention">
-        <img src="./fitness_customer_retention/figures/fitness_customer_retention.png" width="100%" alt="Customer Retention Strategy – Fitness App"/>
-        <h3>🏋️ Customer Retention Strategy – Fitness App</h3>
-      </a>
-      <p>Built a churn prediction model using machine learning to design data-driven retention strategies for fitness app users.</p>
-    </td>
-  </tr>
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🎬 Streaming App Retention Analysis</h3>
+<div align="center">
+
+<p>
+<a href="https://github.com/brayanpinerdo/streaming-churn-analysis" target="_blank">
+<img src="https://img.shields.io/badge/VIEW%20CODE-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+<p>Analyzed user behavior and engagement data to identify churn drivers in a streaming platform.  
+Proposed retention strategies based on usage patterns and subscription trends.</p>
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">🏦 Credit Scoring Model</h3>
+<div align="center">
+
+<p>
+<a href="https://github.com/brayanpinerdo/credit-scoring-model" target="_blank">
+<img src="https://img.shields.io/badge/VIEW%20CODE-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+<p>Cleaned and analyzed client financial data to improve the accuracy of a credit scoring system.  
+Enhanced reliability and consistency of model predictions through data validation.</p>
+</div>
+</td>
+</tr>
+</table>
+
+---
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">💰 Marketing Spend Optimization</h3>
+<div align="center">
+
+<p>
+<a href="https://github.com/brayanpinerdo/marketing-roi-optimization" target="_blank">
+<img src="https://img.shields.io/badge/VIEW%20CODE-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+<p>Applied cohort analysis to evaluate marketing channel ROI and budget efficiency.  
+Proposed spending adjustments that increased marketing ROI by 12%.</p>
+</div>
+</td>
+
+
+<td width="50%">
+<h3 align="center">🏋️ Customer Retention Strategy – Fitness App</h3>
+<div align="center">
+
+<p>
+<a href="https://github.com/brayanpinerdo/fitness-customer-retention" target="_blank">
+<img src="https://img.shields.io/badge/VIEW%20CODE-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+<p>Developed a machine learning model to predict customer churn in a fitness app.  
+Identified key retention factors and designed data-driven strategies to increase engagement.</p>
+</div>
+</td>
+</tr>
 </table>
 
 
----
 
+---
 
 ### 📈 GitHub Analytics
 
